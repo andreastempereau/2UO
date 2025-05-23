@@ -27,8 +27,8 @@ const NODE_ENV = process.env.NODE_ENV || "development";
 const allowedOrigins =
   NODE_ENV === "production"
     ? [
-        "https://bondfyre-production.up.railway.app",
-        "https://*.bondfyre-production.up.railway.app",
+        "https://2uo-production.up.railway.app",
+        "https://*.2uo-production.up.railway.app",
       ]
     : [
         "http://localhost:8080",

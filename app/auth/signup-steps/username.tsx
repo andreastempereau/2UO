@@ -198,7 +198,7 @@ export default function UsernameStep() {
     <View style={styles.container}>
       <StepContainer
         title="Choose a username"
-        subtitle="This will be your unique identifier on Bondfyre"
+        subtitle="This will be your unique identifier on 2UO"
         nextButtonText="Continue"
         onNext={handleNext}
         nextDisabled={!username || !!error || isChecking}
@@ -278,7 +278,7 @@ export default function UsernameStep() {
           />
           <View style={styles.tipTextContainer}>
             <Text style={styles.tipText}>
-              Your username is how others will find you on Bondfyre. Choose
+              Your username is how others will find you on 2UO. Choose
               something unique that represents you.
             </Text>
           </View>

@@ -118,7 +118,7 @@ export const SIGNUP_STEPS: SignupStep[] = [
     name: "username",
     path: "/auth/signup-steps/username",
     title: "Choose a username",
-    subtitle: "This will be your unique identifier on Bondfyre",
+    subtitle: "This will be your unique identifier on 2UO",
     isOptional: false,
   },
   {

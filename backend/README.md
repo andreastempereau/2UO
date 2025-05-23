@@ -28,7 +28,7 @@ This is the backend API for the 2UO group dating app.
 3. Create a `.env` file in the backend directory with the following variables:
    ```
    PORT=8080
-   MONGODB_URI=mongodb://localhost:27017/bondfyre
+   MONGODB_URI=mongodb://localhost:27017/2UO
    JWT_SECRET=your_jwt_secret
    ```
 

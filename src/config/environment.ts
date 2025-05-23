@@ -20,7 +20,7 @@ const getApiUrl = () => {
   }
 
   // For production builds, use the production API URL
-  return "https://bondfyre-production.up.railway.app/api";
+  return "https://2uo-production.up.railway.app";
 };
 
 // Export configuration object
